@@ -1,3 +1,4 @@
-# Covid19-Project
-This project consists of predicting the number of cases of corona virus as well as the number of deaths in the next days.
-Technologies: python,sklearn...
+# COVID19-GLOBAL-FORECASTING
+
+Challenge Kaggle "COVID19 Global Forecasting (Week 5)" 
+Lien Kaggle: https://www.kaggle.com/c/covid19-global-forecasting-week-5/overview  
